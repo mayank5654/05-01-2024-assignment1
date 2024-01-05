@@ -1,0 +1,22 @@
+C:\Users\Ashwitha\Desktop\Assignment\AssignmentPhase4\P4Day1\CalculatorLib\CalculatorLib\bin\Debug\net6.0\CalculatorLib.deps.json
+C:\Users\Ashwitha\Desktop\Assignment\AssignmentPhase4\P4Day1\CalculatorLib\CalculatorLib\bin\Debug\net6.0\CalculatorLib.dll
+C:\Users\Ashwitha\Desktop\Assignment\AssignmentPhase4\P4Day1\CalculatorLib\CalculatorLib\bin\Debug\net6.0\CalculatorLib.pdb
+C:\Users\Ashwitha\Desktop\Assignment\AssignmentPhase4\P4Day1\CalculatorLib\CalculatorLib\obj\Debug\net6.0\CalculatorLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashwitha\Desktop\Assignment\AssignmentPhase4\P4Day1\CalculatorLib\CalculatorLib\obj\Debug\net6.0\CalculatorLib.AssemblyInfoInputs.cache
+C:\Users\Ashwitha\Desktop\Assignment\AssignmentPhase4\P4Day1\CalculatorLib\CalculatorLib\obj\Debug\net6.0\CalculatorLib.AssemblyInfo.cs
+C:\Users\Ashwitha\Desktop\Assignment\AssignmentPhase4\P4Day1\CalculatorLib\CalculatorLib\obj\Debug\net6.0\CalculatorLib.csproj.CoreCompileInputs.cache
+C:\Users\Ashwitha\Desktop\Assignment\AssignmentPhase4\P4Day1\CalculatorLib\CalculatorLib\obj\Debug\net6.0\CalculatorLib.dll
+C:\Users\Ashwitha\Desktop\Assignment\AssignmentPhase4\P4Day1\CalculatorLib\CalculatorLib\obj\Debug\net6.0\refint\CalculatorLib.dll
+C:\Users\Ashwitha\Desktop\Assignment\AssignmentPhase4\P4Day1\CalculatorLib\CalculatorLib\obj\Debug\net6.0\CalculatorLib.pdb
+C:\Users\Ashwitha\Desktop\Assignment\AssignmentPhase4\P4Day1\CalculatorLib\CalculatorLib\obj\Debug\net6.0\ref\CalculatorLib.dll
+F:\phase3\daily assignments\Phase4_Assignment1-master\CalculatorLib\CalculatorLib\bin\Debug\net6.0\CalculatorLib.deps.json
+F:\phase3\daily assignments\Phase4_Assignment1-master\CalculatorLib\CalculatorLib\bin\Debug\net6.0\CalculatorLib.dll
+F:\phase3\daily assignments\Phase4_Assignment1-master\CalculatorLib\CalculatorLib\bin\Debug\net6.0\CalculatorLib.pdb
+F:\phase3\daily assignments\Phase4_Assignment1-master\CalculatorLib\CalculatorLib\obj\Debug\net6.0\CalculatorLib.GeneratedMSBuildEditorConfig.editorconfig
+F:\phase3\daily assignments\Phase4_Assignment1-master\CalculatorLib\CalculatorLib\obj\Debug\net6.0\CalculatorLib.AssemblyInfoInputs.cache
+F:\phase3\daily assignments\Phase4_Assignment1-master\CalculatorLib\CalculatorLib\obj\Debug\net6.0\CalculatorLib.AssemblyInfo.cs
+F:\phase3\daily assignments\Phase4_Assignment1-master\CalculatorLib\CalculatorLib\obj\Debug\net6.0\CalculatorLib.csproj.CoreCompileInputs.cache
+F:\phase3\daily assignments\Phase4_Assignment1-master\CalculatorLib\CalculatorLib\obj\Debug\net6.0\CalculatorLib.dll
+F:\phase3\daily assignments\Phase4_Assignment1-master\CalculatorLib\CalculatorLib\obj\Debug\net6.0\refint\CalculatorLib.dll
+F:\phase3\daily assignments\Phase4_Assignment1-master\CalculatorLib\CalculatorLib\obj\Debug\net6.0\CalculatorLib.pdb
+F:\phase3\daily assignments\Phase4_Assignment1-master\CalculatorLib\CalculatorLib\obj\Debug\net6.0\ref\CalculatorLib.dll
